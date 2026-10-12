@@ -1,0 +1,9 @@
+# Install a CUDA-compatible torch build and external SAM2 separately.
+# Direct dependencies only; this is not the historical training lock file.
+torch
+numpy
+scipy
+scikit-image
+nibabel
+matplotlib
+tqdm
